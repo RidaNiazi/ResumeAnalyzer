@@ -12,7 +12,7 @@ from google.genai import types
 # ==============================================================================
 # CONFIGURATION
 # ==============================================================================
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 
 st.set_page_config(
     page_title="Resume & Job Analyzer",
